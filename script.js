@@ -1,7 +1,7 @@
 // API Configuration 
 const API_KEYS = {
-    unsplash: 'YOUR_UNSPLASH_ACCESS_KEY', 
-    openWeather: 'YOUR_OPENWEATHERMAP_API_KEY'  
+    unsplash: '8KlZ3FrFi_Pz8SgtVmHug1xjELi9IeME3xBfuQd9iKI', 
+    openWeather: '2345187a3630c69cc76bccf5d951ebba'  
 };
 
 // DOM Elements
@@ -294,4 +294,5 @@ document.querySelectorAll('.category-card').forEach(card => {
 
 // Initial focus
 destinationInput.focus();
+
 
