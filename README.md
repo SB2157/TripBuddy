@@ -1,5 +1,7 @@
 # 🌍 TripBuddy – Travel Explorer Website
-<img width="1536" height="1024" alt="tripbuddy" src="https://github.com/user-attachments/assets/def41473-9385-4922-9b6e-da70b08f9f47" />
+<img width="1902" height="870" alt="Screenshot 2025-09-30 121553" src="https://github.com/user-attachments/assets/1707d1cd-8928-497a-a04b-45fa2de1f48d" />
+<img width="1905" height="863" alt="Screenshot 2025-09-30 124216" src="https://github.com/user-attachments/assets/8103ddf8-baac-4b89-9411-2eb9cae057eb" />
+<img width="1900" height="862" alt="Screenshot 2025-09-30 124410" src="https://github.com/user-attachments/assets/2287c1e4-6875-489a-a5ea-5c3f1219c1f4" />
 
 **TripBuddy** is a beautiful and interactive **travel exploration website** built with **HTML, CSS, and JavaScript**.  
 It helps users discover destinations, view travel packages, and check real-time weather information — all with a modern and responsive UI.
