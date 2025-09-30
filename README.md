@@ -27,7 +27,8 @@ It helps users discover destinations, view travel packages, and check real-time 
 - **Unsplash (static image sources)** – beautiful travel images  
 
 ---
-## Demo Link : (https://thetripbuddy.netlify.app)
+## Demo Link : 
+https://thetripbuddy.netlify.app
 
 ## ⚙️ Setup Instructions
 
